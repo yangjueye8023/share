@@ -65,7 +65,7 @@
                 <span class="label label-success">4</span>
               </a>
               <ul class="dropdown-menu">
-                <li class="header">You have 4 messages</li>
+                <li class="header">爵爷You have 4 messages</li>
                 <li>
                   <!-- inner menu: contains the actual data -->
                   <ul class="menu">
@@ -137,7 +137,7 @@
                 <span class="label label-warning">10</span>
               </a>
               <ul class="dropdown-menu">
-                <li class="header">You have 10 notifications</li>
+                <li class="header">爵爷You have 10 notifications</li>
                 <li>
                   <!-- inner menu: contains the actual data -->
                   <ul class="menu">
@@ -179,7 +179,7 @@
                 <span class="label label-danger">9</span>
               </a>
               <ul class="dropdown-menu">
-                <li class="header">You have 9 tasks</li>
+                <li class="header">爵爷You have 9 tasks</li>
                 <li>
                   <!-- inner menu: contains the actual data -->
                   <ul class="menu">
