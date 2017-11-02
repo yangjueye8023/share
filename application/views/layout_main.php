@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>灵动云商城后台管理系统</title>
+  <title>共享校园后台管理系统</title>
   <!-- Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="white">
-  <meta name="apple-mobile-web-app-title" content="灵动云商"/>
+  <meta name="apple-mobile-web-app-title" content="共享校园"/>
   <link rel="apple-touch-icon-precomposed" href="/assets/images/logo180.png">
   <!-- icon for web -->
   <link rel="icon" type="image/png" href="/assets/images/logo180.png">
@@ -45,9 +45,9 @@
       <!-- Logo -->
       <a href="<?=base_url('/')?>" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini">灵动</span>
+        <span class="logo-mini">共享</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>灵动</b>云商城</span>
+        <span class="logo-lg"><b>共享</b>校园</span>
       </a>
       <!-- Header Navbar: style can be found in header.less -->
       <nav class="navbar navbar-static-top">
@@ -335,7 +335,7 @@
             </a>
             <ul class="treeview-menu">
               <li class="<?=uri_string() == 'manager/profile' ? 'active' : ''?>"><a href="../manager/profile"><i class="fa fa-user"></i> 修改资料</a></li>
-              <li class="<?=uri_string() == 'praise/index' ? 'active' : ''?>"><a href="../donate/index"><i class="fa fa-user"></i> 赞赏记录</a></li>
+              <li class="<?=uri_string() == 'praise/index' ? 'active' : ''?>"><a href="../donate/index"><i class="fa fa-user"></i> 支付记录</a></li>
             </ul>
           </li>
         </ul>
@@ -353,7 +353,7 @@
   <div class="pull-right hidden-xs">
     <b>Version</b> 2.3.8
   </div>
-  <strong>Copyright &copy; 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
+  <strong>燕软集团&>共享校园</a>.</strong> All rights
   reserved.
 </footer>
 </div>
