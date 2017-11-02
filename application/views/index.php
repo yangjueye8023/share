@@ -46,12 +46,12 @@
 	<div class="jumbotron" style="padding: 100px; height: 800px; background: center center url(<?=base_url('assets/images/banner.jpg') ?>);">
 		<h1 style="color: #fff;">共享校园</h1>
 		<p>
-			<button type="button" class="btn btn-success btn-lg popover-show" style="width: 256px; height: 60px" title="小程序" data-container="body" data-placement="bottom" data-toggle="popover" data-html="true" data-trigger="hover focus click" data-content="<img src='<?=base_url('assets/images/qrcode.jpg')?>' />"><span class="glyphicon glyphicon-qrcode" style="margin-right: 5px;"></span> 扫一扫</button>
+			<button type="button" class="btn btn-success btn-lg popover-show" style="width: 256px; height: 60px" title="小程序" data-container="body" data-placement="bottom" data-toggle="popover" data-html="true" data-trigger="hover focus click" data-content="<img src='<?=base_url('assets/images/banner.jpg')?>' />"><span class="glyphicon glyphicon-qrcode" style="margin-right: 5px;"></span> 扫一扫</button>
         </p>
 	</div>
 	<hr class="line"/>
 	<footer>
-		<div class="text-center">&copy;2014-2017  target="_blank">燕软集团</a> 版权所有</div>
+		<div class="text-center">&copy;2014-2017>燕软集团</a> 版权所有</div>
 	</footer>
 	<script>
 		$(function () { 
