@@ -8,7 +8,6 @@
   <section class="content-header">
     <ol class="breadcrumb">
       <li><a href="../dashboard/index"><i class="fa fa-dashboard"></i> 首页</a></li>
-      <li class="active">分类管理</li>
     </ol>
   </section>
   <!-- Main content -->
