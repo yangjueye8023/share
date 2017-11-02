@@ -37,7 +37,7 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav" style="margin-left: 400px;">
 	        <li class="active"><a href="javascript:;">首页<span class="sr-only">(current)</span></a></li>
-	        <li><a id="service" href="http://www.it577.net">关于我们</a></li>
+	        <li><a id="service" href="../manager/login">管理员</a></li>
 	      </ul>
 	    </div>
 	  </div>
