@@ -24,7 +24,7 @@ class PayNotifyCallBack extends WxPayNotify
 			&& $result["return_code"] == "SUCCESS"
 			&& $result["result_code"] == "SUCCESS")
 		{
-			return true;
+			return SetNotify_url("https://jueye.leanapp.cn/WXPay/notify");;
 		}
 		return false;
 	}
