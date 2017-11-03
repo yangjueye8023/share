@@ -2,7 +2,7 @@
 use \LeanCloud\User;
 
 function acl () {
-	if (User::getCurrentUser() != null &&User::getCurrentUser()->get('username') == 'jueye') {
+	if (User::getCurrentUser() != null) {
 		return true;
 	}
 	return false;
